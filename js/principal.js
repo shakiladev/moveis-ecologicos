@@ -1,7 +1,7 @@
 -setInterval(trocaBanner, 2000);
 +setInterval(trocaBanner, 1000);
 var	banners	=	
-	["Os	melhores	do	Brasil!",	"Qualidade	e	preço	baixo!"];
+	["Do	lixo	ao	luxo!","Reaproveitar	é	aproveitar!"];
 var	bannerAtual	=	0;
 
 function	trocaBanner() {
